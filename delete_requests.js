@@ -403,3 +403,6 @@ if (typeof module !== 'undefined' && module.exports) {
 // 6. Direct mode: directSelectAndDelete('unmatched');
 // 7. Check all individual checkboxes: checkAllIndividualCheckboxes('unmatched');
 // 8. Complete solution: completeSelectAllAndDelete('unmatched');
+
+// This command works for unmatched requests:
+//  completeSelectAllAndDelete('unmatched');
